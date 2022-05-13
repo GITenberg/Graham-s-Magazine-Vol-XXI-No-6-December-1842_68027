@@ -1,0 +1,45 @@
+_repo: Graham-s-Magazine-Vol-XXI-No-6-December-1842_68027
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Griswold, Rufus W. (Rufus Wilmot)
+    aliases:
+    - Griswold, Rufus Wilmot
+    - Griswold, R. W. (Rufus Wilmot)
+    birthdate: 1815
+    deathdate: 1857
+    gutenberg_agent_id: '54553'
+    url: http://www.gutenberg.org/2009/agents/54553
+    wikipedia: https://en.wikipedia.org/wiki/Rufus_Wilmot_Griswold
+  - agent_name: Graham, George R.
+    alias: Graham, George Rex
+    birthdate: 1813
+    deathdate: 1894
+    gutenberg_agent_id: '33746'
+    url: http://www.gutenberg.org/2009/agents/33746
+    wikipedia: https://en.wikipedia.org/wiki/George_Rex_Graham
+description: ''
+gutenberg_issued: '2022-05-08'
+identifiers:
+  gutenberg: '68027'
+language: en
+pgterms:marc904: https://archive.org/details/grahamsmagazine2021grah
+pgterms:marc905: 20220413075214various
+pgterms:marc906: '1842'
+pgterms:marc907: US
+production_note: Mardi Desjardins & the online Distributed Proofreaders Canada team
+  at https://www.pgdpcanada.net from page images generously made available by the
+  Internet Archive
+publication_note: United States :George R. Graham,1842.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Graham's Magazine, Vol. XXI, No. 6, December 1842
+url: http://www.gutenberg.org/ebooks/68027
